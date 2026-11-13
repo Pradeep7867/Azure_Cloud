@@ -1,0 +1,12 @@
+
+{
+  "name": "azure-student-registration",
+  "version": "1.0.0",
+  "description": "Student Registration App for Azure demonstration",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
